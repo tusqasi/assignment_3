@@ -6,6 +6,6 @@ void main(){
     /*
      * formula for first n negative integers: n^2
      * sum = n**2 */
-    printf("%d\n",num_of_negative_numbers*num_of_negative_numbers)
+    printf("%d\n",num_of_negative_numbers*num_of_negative_numbers);
 
 }
